@@ -1,0 +1,20 @@
+// layout
+$blue: #154F9E;
+$blue_dark: #124285;
+$blue_darkest: #0E366B;
+@import "_misc/fonts";
+@import "_misc/mixins";
+@import "_misc/adjustment";
+@import "_misc/normalize"; 
+@import "../slick/slick"; 
+@import "../slick/slick-theme"; 
+@import "_misc/normalize"; 
+
+
+//styles 
+
+@import "sections/index";  
+@import "sections/services";  
+@import "sections/header";  
+@import "sections/footer";  
+         
